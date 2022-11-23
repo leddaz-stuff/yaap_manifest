@@ -157,6 +157,6 @@
   <project path="vendor/qcom/opensource/usb" name="vendor_qcom_opensource_usb" remote="yaap" />
   <project path="vendor/qcom/opensource/vibrator" name="vendor_qcom_opensource_vibrator" remote="yaap" />
   <project path="vendor/themes" name="vendor_themes" remote="yaap" />
-  <project path="vendor/yaap" name="vendor_yaap" remote="yaap" />
+  <project path="vendor/yaap" name="vendor_yaap" remote="leddaz-stuff" />
 
 </manifest>
